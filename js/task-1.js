@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 // Write a function slugify(title) that accepts the article title as a parameter title
 // title.toLowerCase() – convert the entire title to lowercase.
 // .split(" ") – split a string into an array of words (where spaces are separators).

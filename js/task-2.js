@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 // Write a function called makeArray that takes three parameters:
 // firstArray (array), secondArray (array), and maxLength (number)
 function makeArray(firstArray, secondArray, maxLength) {

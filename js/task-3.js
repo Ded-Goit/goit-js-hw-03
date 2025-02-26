@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 //Write a function filterArray(numbers, value) that takes
 // an array of numbers and a value as parameters.
 
